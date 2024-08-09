@@ -1,4 +1,4 @@
-# MyMap Project
+# MyMap Project (Access to Full Repository Available Upon Request)
 
 ## Overview
 The MyMap Project features a custom implementation of a map class in C++, similar to the standard library's `std::map`. The implementation utilizes a self-balancing threaded binary search tree (BST) to maintain ordered data. The project demonstrates an advanced use of threading to improve the efficiency of in-order traversals and employs a Seesaw-Balanced property to ensure the tree remains balanced, enhancing overall data operation performance.
@@ -26,7 +26,7 @@ The MyMap Project features a custom implementation of a map class in C++, simila
 - **Run Tests:** Execute `make run` to run the tests and validate functionality.
 - **Memory Checks:** Use `make valgrind` to perform memory leak checks (non-Mac users).
 
-## Good Practices Demonstrated
+## Practices Demonstrated
 
 - **Recursive Algorithms:** The project makes extensive use of recursion for tree manipulation operations such as insertion, deletion, and balancing.
 - **Efficient Traversal:** The use of threaded nodes significantly reduces the time complexity of in-order traversal from O(n) to O(1) for successive accesses.
@@ -37,3 +37,8 @@ The MyMap Project features a custom implementation of a map class in C++, simila
 
 - **Seesaw Balancing:** This unique balancing method ensures optimal performance even under varying operation conditions.
 - **Complexity Analysis:** Each function is documented with time and space complexity, reflecting a deep understanding of performance considerations.
+
+
+## Code Availability
+
+Due to copyright restrictions, the complete source code is not included in this public repository. However, if you are interested in reviewing the full code, I can provide access to the entire private repository. Please contact me directly, and I will be happy to grant you permission to read the repository.
